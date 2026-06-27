@@ -1,3 +1,4 @@
+build-macos-arm64.sh
 /target
 /vendor/boost
 /touchHLE_sandbox
